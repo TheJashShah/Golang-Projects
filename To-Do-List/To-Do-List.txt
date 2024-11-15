@@ -1,0 +1,3 @@
+| Task                      | ID    | Priority   | Status | 
+| FIXED THIS, HOPEFULLY     | 2524  | 1          | False  | 
+| LEARN WEB DEV WITH GO     | 4685  | 1          | False  | 
